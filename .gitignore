@@ -1,0 +1,3 @@
+# Project exclude paths
+/mykafkaprocessingplanet/target/
+/mykafkaproducerplanet/target/
